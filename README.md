@@ -2,6 +2,22 @@
 As an enthusiast of technology, I challenge myself every day to expand my skill set and solidify my proficiency as a programmer. My repository includes numerous Full Stack projects. I also love developing video games in my spare time, currently using Godot and Blender. My YouTube channel is available for curious minds.
 
 ## Full Stack Skills
+
+![Python Proficiency](https://example.com/python-bar.png)
+**Python**
+
+![JavaScript Proficiency](https://example.com/javascript-bar.png)
+**JavaScript**
+
+![React Proficiency](https://example.com/react-bar.png)
+**React**
+
+![Bootstrap Proficiency](https://example.com/bootstrap-bar.png)
+**Bootstrap**
+
+![Blender Proficiency](https://example.com/blender-bar.png)
+**Blender**
+
 <p align="left">
   <img alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60" height="60" style="margin-right: 10px;"/>
   <img alt="React" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="60" height="60" style="margin-right: 10px;"/>
