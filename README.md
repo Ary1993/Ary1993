@@ -7,6 +7,7 @@ As an enthusiast of technology, I challenge myself every day to expand my skill 
   <img alt="React" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="60" height="60" style="margin-right: 10px;"/>
   <img alt="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="60" height="60" style="margin-right: 10px;"/>
   <img alt="Flask" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="120" height="60" style="margin-right: 10px;"/>
+  <img alt="JWT" src="https://jwt.io/img/logo-asset.svg" width="120" height="60"/>
   <img alt="SQLAlchemy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SQLAlchemy.svg/1920px-SQLAlchemy.svg.png" width="120" height="60" style="margin-right: 10px;"/>
   <img alt="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="70" height="60" style="margin-right: 10px;"/>
 </p>
