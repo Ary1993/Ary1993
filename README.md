@@ -20,7 +20,11 @@ As an enthusiast of technology, I challenge myself every day to expand my skill 
 </p>
 
 ## References
-
-[Linkedin](https://www.linkedin.com/in/ary-alexandre-pallas-urencio-4226a0171)
-
-[Youtube](https://www.youtube.com/@TheGamePhylosofer)
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 50%;">
+    [Linkedin](https://www.linkedin.com/in/ary-alexandre-pallas-urencio-4226a0171)
+  </div>
+  <div style="flex: 1; min-width: 50%;">
+    [Youtube](https://www.youtube.com/@TheGamePhylosofer)
+  </div>
+</div>
