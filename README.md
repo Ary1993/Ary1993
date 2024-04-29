@@ -8,7 +8,7 @@ As an enthusiast of technology, I challenge myself every day to expand my skill 
   <img alt="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="60" height="60"/>
   <img alt="Flask" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="120" height="60"/>
   <img alt="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="60" height="60"/>
-  <img alt="Blender" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Blender_logo_no_text.png" width="60" height="60"/>
+  <img alt="Blender" src="https://es.m.wikipedia.org/wiki/Archivo:Logo_Blender.svg#/media/File%3ABlender_logo_no_text.svg" width="60" height="60"/>
 </p>
 
 ## References
