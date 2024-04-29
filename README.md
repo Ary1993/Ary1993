@@ -1,5 +1,6 @@
 ### Ary Alexandre 
-
+As a entusiasthic on technology, everyday I challenge myself to expand my skill set and solidify my profiency as programmer, as you can see my repository has plenty of Full Stack projects.
+I also want to point out that love developing videogames on my spare time, currently using Godot and Blender. My Youtube Channel is also available for the curios minds. 
 <!--
 **Ary1993/Ary1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
