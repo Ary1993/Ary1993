@@ -1,9 +1,10 @@
-### Ary Alexandre 
+# Ary Alexandre 
 As an enthusiast of technology, I challenge myself every day to expand my skill set and solidify my proficiency as a programmer. My repository includes numerous Full Stack projects. I also love developing video games in my spare time, currently using Godot and Blender. My YouTube channel is available for curious minds.
 
-# Tech Stack
+## Tech Stack
+![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 
-# References
+## References
 
 [Linkedin](linkedin.com/in/ary-alexandre-pallas-urencio-4226a0171)
 
