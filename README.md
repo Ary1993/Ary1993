@@ -2,14 +2,16 @@
 As an enthusiast of technology, I challenge myself every day to expand my skill set and solidify my proficiency as a programmer. My repository includes numerous Full Stack projects. I also love developing video games in my spare time, currently using Godot and Blender. My YouTube channel is available for curious minds.
 
 ## Tech Stack
-![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
-![Flask Logo](https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg)
-![SQLAlchemy Logo](https://upload.wikimedia.org/wikipedia/en/6/6e/SQLAlchemy_logo.png)
-![JWT Logo](https://jwt.io/img/logo-asset.svg)
-![Bootstrap Logo](https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg)
-![Blender Logo](https://upload.wikimedia.org/wikipedia/commons/7/74/Blender_logo_no_text.png)
+<p align="left">
+  <img alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60" height="60"/>
+  <img alt="React" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="60" height="60"/>
+  <img alt="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="60" height="60"/>
+  <img alt="Flask" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="60" height="60"/>
+  <img alt="SQLAlchemy" src="https://upload.wikimedia.org/wikipedia/en/6/6e/SQLAlchemy_logo.png" width="60" height="60"/>
+  <img alt="JWT" src="https://jwt.io/img/logo-asset.svg" width="60" height="60"/>
+  <img alt="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="60" height="60"/>
+  <img alt="Blender" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Blender_logo_no_text.png" width="60" height="60"/>
+</p>
 
 ## References
 
