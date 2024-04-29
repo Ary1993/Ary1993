@@ -1,7 +1,10 @@
 ### Ary Alexandre 
 As an enthusiast of technology, I challenge myself every day to expand my skill set and solidify my proficiency as a programmer. My repository includes numerous Full Stack projects. I also love developing video games in my spare time, currently using Godot and Blender. My YouTube channel is available for curious minds.
 
-[GitHub](https://github.com)
+[Linkedin](linkedin.com/in/ary-alexandre-pallas-urencio-4226a0171)
+
+[Youtube](www.youtube.com/@TheGamePhylosofer)
+
 
 <!--
 **Ary1993/Ary1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
