@@ -20,4 +20,4 @@ As an enthusiast of technology, I challenge myself every day to expand my skill 
 </p>
 
 ## References
-[LinkedIn](https://www.linkedin.com/in/ary-alexandre-pallas-urencio-4226a0171) | [YouTube](https://www.youtube.com/@TheGamePhylosofer) | [MyVideoGame](https://ary-alexandre-pallas.itch.io/last-legacy)
+[LinkedIn](https://www.linkedin.com/in/ary-alexandre-pallas-urencio-4226a0171) | [YouTube](https://www.youtube.com/@TheGamePhylosofer) | [MyVideoGame](https://ary-alexandre-pallas.itch.io/last-legacy) | [ArtStation](https://www.artstation.com/alexandrepallas2)
