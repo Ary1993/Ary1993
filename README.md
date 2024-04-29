@@ -3,16 +3,6 @@ As an enthusiast of technology, I challenge myself every day to expand my skill 
 
 ## Full Stack Skills
 
-**Python:** ●●●●●
-
-**JavaScript:** ●●●●○
-
-**React:** ●●●○○
-
-**Bootstrap:** ●●●○○
-
-**Blender:** ●●●●○
-
 <p align="left">
   <img alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="60" height="60" style="margin-right: 10px;"/>
   <img alt="React" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="60" height="60" style="margin-right: 10px;"/>
